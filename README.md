@@ -15,4 +15,16 @@ My solutions to LeetCode problems in Python, Java, and other languages.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
