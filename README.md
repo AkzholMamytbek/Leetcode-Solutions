@@ -6,6 +6,7 @@ My solutions to LeetCode problems in Python, Java, and other languages.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -14,6 +15,7 @@ My solutions to LeetCode problems in Python, Java, and other languages.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
@@ -27,4 +29,8 @@ My solutions to LeetCode problems in Python, Java, and other languages.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
