@@ -11,6 +11,7 @@ My solutions to LeetCode problems in Python, Java, and other languages.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 ## String
 |  |
