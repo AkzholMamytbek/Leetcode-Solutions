@@ -1,31 +1,32 @@
 class Solution(object):
     def myAtoi(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        INT_MAX, INT_MIN = 2**31 - 1, -2**31
-        i, n = 0, len(s)
+        i=0
+        n=len(s)
+        sign=1
+        result=0
 
-        # 1. Skip leading spaces
-        while i < n and s[i] == ' ':
+        INT_MAX=2**31-1
+        INT_MIN=-2**31
+
+        while i<n and s[i]==' ':
             i += 1
 
-        # 2. Optional sign
-        sign = 1
-        if i < n and (s[i] == '+' or s[i] == '-'):
-            if s[i] == '-':
-                sign = -1
+        if i<n and s[i] == '-':
+            sign=-1
+            i+=1  
+        elif i<n and s[i] == '+':
             i += 1
+        while i<n and s[i].isdigit():
+            digit = ord(s[i]) - ord('0') 
+            result = result*10+digit
+            i+=1
 
-        # 3 + 4. Read digits manually, clamping before overflow
-        limit = INT_MAX if sign == 1 else -INT_MIN   # 2147483647 or 2147483648
-        result = 0
-        while i < n and '0' <= s[i] <= '9':
-            digit = ord(s[i]) - ord('0')
-            if result > (limit - digit) // 10:
-                return sign * limit
-            result = result * 10 + digit
-            i += 1
+        result = result*sign
 
-        return sign * result
+        if result > INT_MAX:
+            return INT_MAX
+
+        if result < INT_MIN:
+            return INT_MIN
+
+        return result 
