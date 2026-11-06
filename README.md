@@ -26,6 +26,7 @@ My solutions to LeetCode problems in Python, Java, and other languages.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ My solutions to LeetCode problems in Python, Java, and other languages.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +57,8 @@ My solutions to LeetCode problems in Python, Java, and other languages.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
