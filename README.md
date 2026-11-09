@@ -38,6 +38,7 @@ My solutions to LeetCode problems in Python, Java, and other languages.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,4 +65,20 @@ My solutions to LeetCode problems in Python, Java, and other languages.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
