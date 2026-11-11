@@ -61,6 +61,7 @@ My solutions to LeetCode problems in Python, Java, and other languages.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Greedy
 |  |
 | ------- |
@@ -69,6 +70,7 @@ My solutions to LeetCode problems in Python, Java, and other languages.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/AkzholMamytbek/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
